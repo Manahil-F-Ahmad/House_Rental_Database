@@ -1,0 +1,13 @@
+INSERT INTO house_rental_website.payments(paymentID, Amount_due, propertyID, userID)
+VALUES
+("Pay01",100,"LUK008","AB08R"),
+("PAY02",2020,"LUK008","AB08R"),
+("PAY10",3898,"MUK004","BK04R"),
+("PAY11",8309,"SUK010","HA10R"),
+("PAY20",1392,"MUK009","HA09R"),
+("PAY21",3918,"BUK003","MA03R"),
+("PAY30",201,"LUK002","LA02R"),
+("PAY31",2980,"LUK002","LA02R"),
+("PAY40",129,"MUK007","SS07R"),
+("PAY41",1029,"MUK007","SS07R")
+;
